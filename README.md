@@ -9,8 +9,9 @@ In order to compare the same domain between proteins or to compare different dom
 ## The Solution
 A new mfta format in which the membrane fasta file is enriched with topological features in JSON from iMPEToS. We will define templates for 1TM and 7TM membrane proteins that are used to extract consesnsus domains from OPM and PDBTM. With the new format we will enable searching and comparison of domains.
 
-![Overview diagram](Diagram 1.png)
-![Overview diagram](Diagram 2.png)
+![Overview diagram1](Diagram1.png)
+
+![Overview diagram2](Diagram2.png)
 
 
 ## People/Team
