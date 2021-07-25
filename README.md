@@ -17,8 +17,8 @@ A new mfta format in which the membrane fasta file is enriched with topological 
 
 
 ## People/Team
-* Ravi Abrol
-* Charlotte Adams
-* David Macoto Ward
-* Lilia Mesina
-* Sayane Shome
+* [Ravi Abrol]
+* [Charlotte Adams](https://github.com/adamscharlotte), University of Antwerp, Belgium, <charlotte.adams@uantwerpen.be>
+* [David Macoto Ward](https://github.com/dmw01)
+* [Lilia Mesina](https://github.com/lilicamd)
+* [Sayane Shome](https://github.com/sayaneshome)
