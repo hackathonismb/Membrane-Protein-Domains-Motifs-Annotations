@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<pdbtm xmlns="http://pdbtm.enzim.hu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pdbtm.enzim.hu/data/pdbtm.xsd pdbtm.xsd" ID="2rh1" TMP="yes">
+  <COPYRIGHT>
+     All  information, data  and  files are copyright.  PDBTM database is
+     produced in the  Institute of  Enzymology,  Budapest, Hungary. There
+     are no restrictions on  its  use by  non-profit institutions as long
+     as its content  is  in  no  way  modified  and this statement is not
+     removed from entries. Usage by and for  commercial entities requires
+     a license agreement (send an email to pdbtm at enzim dot hu).
+  </COPYRIGHT>
+  <CREATE_DATE>2007-11-01</CREATE_DATE>
+  <MODIFICATION>
+    <DATE>2008-02-15</DATE>
+    <DESCR>It was wrongly identified as virus protein.</DESCR>
+  </MODIFICATION>
+  <MODIFICATION>
+    <DATE>2012-06-15</DATE>
+    <DESCR>Interfacial helix detected.</DESCR>
+  </MODIFICATION>
+  <MODIFICATION>
+    <DATE>2013-05-13</DATE>
+    <DESCR>Sidedefinition added</DESCR>
+  </MODIFICATION>
+  <RAWRES>
+    <TMRES>76.97</TMRES>
+    <TMTYPE>Tm_Alpha</TMTYPE>
+    <SPRES>Unknown</SPRES>
+    <PDBKWRES>yes</PDBKWRES>
+  </RAWRES>
+  <MEMBRANE>
+    <NORMAL X="0.00000000" Y="0.00000000" Z="18.00000000"/>
+    <TMATRIX>
+      <ROWX X="0.99872088" Y="-0.05043572" Z="0.00358124" T="32.88781357"/>
+      <ROWY X="0.00000000" Y="0.07082780" Z="0.99748856" T="-15.66232681"/>
+      <ROWZ X="-0.05056271" Y="-0.99621266" Z="0.07073720" T="14.95698166"/>
+    </TMATRIX>
+  </MEMBRANE>
+  <SIDEDEFINITION Side1="Inside">
+    <NOTE>by similarity to chain: A (see PDBTM: 3sn6)</NOTE>
+  </SIDEDEFINITION>
+  <CHAIN CHAINID="A" NUM_TM="7" TYPE="alpha">
+    <SEQ>
+      DYKDDDAMGQ PGNGSAFLLA PNRSHAPDHD VTQQRDEVWV VGMGIVMSLI 
+      VLAIVFGNVL VITAIAKFER LQTVTNYFIT SLACADLVMG LAVVPFGAAH 
+      ILMKMWTFGN FWCEFWTSID VLCVTASIET LCVIAVDRYF AITSPFKYQS 
+      LLTKNKARVI ILMVWIVSGL TSFLPIQMHW YRATHQEAIN CYAEETCCDF 
+      FTNQAYAIAS SIVSFYVPLV IMVFVYSRVF QEAKRQLNIF EMLRIDEGLR 
+      LKIYKDTEGY YTIGIGHLLT KSPSLNAAKS ELDKAIGRNT NGVITKDEAE 
+      KLFNQDVDAA VRGILRNAKL KPVYDSLDAV RRAALINMVF QMGETGVAGF 
+      TNSLRMLQQK RWDEAAVNLA KSRWYNQTPN RAKRVITTFR TGTWDAYKFC 
+      LKEHKALKTL GIIMGTFTLC WLPFFIVNIV HVIQDNLIRK EVYILLNWIG 
+      YVNSGFNPLI YCRSPDFRIA FQELLCLRRS SLKAYGNGYS SNGNTGEQSG 
+      
+    </SEQ>
+    <REGION seq_beg="1" pdb_beg="-6" seq_end="35" pdb_end="28" type="U"/>
+    <REGION seq_beg="36" pdb_beg="29" seq_end="38" pdb_end="31" type="2"/>
+    <REGION seq_beg="39" pdb_beg="32" seq_end="66" pdb_end="59" type="H"/>
+    <REGION seq_beg="67" pdb_beg="60" seq_end="76" pdb_end="69" type="1"/>
+    <REGION seq_beg="77" pdb_beg="70" seq_end="102" pdb_end="95" type="H"/>
+    <REGION seq_beg="103" pdb_beg="96" seq_end="111" pdb_end="104" type="2"/>
+    <REGION seq_beg="112" pdb_beg="105" seq_end="136" pdb_end="129" type="H"/>
+    <REGION seq_beg="137" pdb_beg="130" seq_end="157" pdb_end="150" type="1"/>
+    <REGION seq_beg="158" pdb_beg="151" seq_end="182" pdb_end="175" type="H"/>
+    <REGION seq_beg="183" pdb_beg="176" seq_end="185" pdb_end="178" type="2"/>
+    <REGION seq_beg="186" pdb_beg="179" seq_end="193" pdb_end="186" type="F"/>
+    <REGION seq_beg="194" pdb_beg="187" seq_end="200" pdb_end="193" type="2"/>
+    <REGION seq_beg="201" pdb_beg="194" seq_end="227" pdb_end="220" type="H"/>
+    <REGION seq_beg="228" pdb_beg="221" seq_end="409" pdb_end="274" type="1"/>
+    <REGION seq_beg="410" pdb_beg="275" seq_end="434" pdb_end="299" type="H"/>
+    <REGION seq_beg="435" pdb_beg="300" seq_end="437" pdb_end="302" type="2"/>
+    <REGION seq_beg="438" pdb_beg="303" seq_end="462" pdb_end="327" type="H"/>
+    <REGION seq_beg="463" pdb_beg="328" seq_end="464" pdb_end="329" type="1"/>
+    <REGION seq_beg="465" pdb_beg="330" seq_end="474" pdb_end="339" type="F"/>
+    <REGION seq_beg="475" pdb_beg="340" seq_end="477" pdb_end="342" type="1"/>
+    <REGION seq_beg="478" pdb_beg="343" seq_end="500" pdb_end="365" type="U"/>
+  </CHAIN>
+</pdbtm>
