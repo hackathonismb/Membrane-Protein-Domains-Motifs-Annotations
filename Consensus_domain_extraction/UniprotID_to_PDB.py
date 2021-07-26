@@ -33,5 +33,7 @@ data = data.encode('utf-8')
 req = urllib.request.Request(url,data)
 with urllib.request.urlopen(req) as f:
    response = f.read()
-print(response.decode('utf-8'))
+dict2 = {}
+dict2 = response.decode('utf-8')
+print(dict2)
 
