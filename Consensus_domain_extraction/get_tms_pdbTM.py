@@ -8,10 +8,6 @@ import xmltodict
 import json
 import pandas as pd
 
-def export_json():
-    pass
-
-
 #
 if len(sys.argv) < 2:
     message='\n Get Hydrophobic Core of TM regions of membrane proteins from the PDBTM.\n\n Usage: ' + sys.argv[0] + ' [4-letter PDBid] \n' + ' Example1: ' + sys.argv[0] + ' 2rh1\n'
