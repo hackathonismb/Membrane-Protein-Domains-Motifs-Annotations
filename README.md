@@ -1,5 +1,5 @@
 # Sub-domain Annotation of 1TM and 7TM Membrane Proteins
-
+**Team**: Ravi Abrol (Lead), David Macoto Ward (Tech), Lilia Mesina (Tech), Sayane Shome (Tech), and Charlotte Adams (Writer)
 ## What is the problem?
 The currently available information on membrane protein domains is scattered over different platforms and is mainly focussed towards the transmembrane (TM) domains. 
 
@@ -13,7 +13,10 @@ A new mfta format in which the membrane fasta file is enriched with topological 
 
 ![Overview diagram2](Diagram2.png)
 
-## How to use it:
+## How the database was created:
+
+
+## Project goals:
 
 
 ## People/Team
