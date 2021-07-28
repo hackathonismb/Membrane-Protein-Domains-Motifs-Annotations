@@ -1,5 +1,5 @@
 # Sub-domain Annotation of 1TM and 7TM Membrane Proteins
-(Pandos_github_banner.png)
+![Github_banner](Pandos_github_banner.png)
 
 **Team**: Ravi Abrol (Lead), David Macoto Ward (Tech),Sayane Shome (Tech), and Charlotte Adams (Writer)
 ## What is the problem?
