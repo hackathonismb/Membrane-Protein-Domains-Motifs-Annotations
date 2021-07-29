@@ -11,7 +11,7 @@ A web-based searchable database containing membrane fasta (mfta) files enriched 
 ![Overview diagram](Images/Diagram.png)
 
 ## Project goals:
-* Add domain parsers to incorporate other domains into proteins currently included in the PANDoS database.
+* Add domain parsers(Consensus Transmembrane domains,hinger domains) to incorporate other domains into proteins currently included in the PANDoS database.
 * Add domain parsers to incorporate domains for protein families currently not in PANDoS.
 * Add sequence homology based domain parsers for proteins with no known structure.
 * Create an iCn3D plugin and comparative domain analysis web server at <http://TMspa.org>.
