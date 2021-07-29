@@ -1,7 +1,7 @@
 # Sub-domain Annotation of 1TM and 7TM Membrane Proteins
 ![Github_banner](Images/Pandos_github_banner.png)
 
-**Team**: Ravi Abrol (Team Lead), David Macoto Ward (Tech Lead),Sayane Shome (Domain Specialist), and Charlotte Adams (Writer)
+**Team**: Ravi Abrol (Team Lead), David Macoto Ward (Tech Lead),Sayane Shome (Domain Specialist,Logo Designer), and Charlotte Adams (Writer)
 ## What is the problem?
 The currently available information on membrane protein domains is scattered over different platforms and is mainly focussed towards the transmembrane (TM) domains. In order to compare the same domain between proteins or to compare different domains within a protein, a standard is needed.
 
