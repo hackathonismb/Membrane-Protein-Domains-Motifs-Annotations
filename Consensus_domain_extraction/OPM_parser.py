@@ -65,7 +65,7 @@ def request_data_OPM(url):
         response = f.read()
         return response.decode('utf-8')
 
-pdb_ids = pandas.read_csv('opm_database.csv')
+df = pandas.read_csv('opm_database.csv')
 import re
 
 r = re.compile(r"(\d+)\(\s*(\d+)-\s*(\d+)\)")
