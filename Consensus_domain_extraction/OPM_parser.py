@@ -80,7 +80,7 @@ df["Domain_type"] = "TMD" + df["Domain_type"].astype(str)
 OPM_list = pd.merge(reader,df,on='PDB_ID')
 OPM_list.drop_duplicates(inplace=True)
 
-consensus_json = df.to_json(orient="records")   # df to json
+consensus_json = OPM_list.to_json(orient="records")   # df to json
 json_obj = json.loads(consensus_json)           # formatting nicely
 consensus_json_formatted_str = json.dumps(json_obj, indent=2)
 print(consensus_json_formatted_str)
