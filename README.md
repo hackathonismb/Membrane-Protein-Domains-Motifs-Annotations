@@ -24,5 +24,5 @@ A new mfta format in which the membrane fasta file is enriched with topological 
 ## People/Team
 * [Ravi Abrol](http://abrollab.org), California State University, Northridge, USA
 * [Charlotte Adams](https://github.com/adamscharlotte), University of Antwerp, Belgium, <charlotte.adams@uantwerpen.be>
-* [David Macoto Ward](https://github.com/dmw01)
-* [Sayane Shome](https://github.com/sayaneshome),Iowa State University,USA,sshome@iastate.edu
+* [David Macoto Ward](https://github.com/dmw01),California State University, Northridge, USA
+* [Sayane Shome](https://github.com/sayaneshome),Iowa State University,USA,Github_id :sayaneshome
